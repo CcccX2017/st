@@ -1,0 +1,6 @@
+rig
+*.rej
+config.h
+st
+st.o
+x.o
